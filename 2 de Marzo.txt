@@ -1,4 +1,1 @@
-$AdminApp install /opt/sample.war {-3htp3-server1 }
-$AdminApp install /opt/sample.war {-server 3htp3-server1 -MapWebModToVH {{"Hello, World Application" sample.war,WEB-INF/web.xml default_host}}}
-
-$AdminApp install /opt/sample.war {-server 3htp3-server1 -contextroot /sample -appname sample_war -MapWebModToVH {{"Hello, World Application" sample.war,WEB-INF/web.xml default_host}}}
+$jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
